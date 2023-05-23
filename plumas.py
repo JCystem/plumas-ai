@@ -16,7 +16,7 @@ else:
 plumas = Client(
     ":memory:",
     bot_token=bot_token,
-    api_id="example api id",
+    api_id="6",
     api_hash="example api hash",
 )
 
